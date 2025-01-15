@@ -1,0 +1,26 @@
+### IntelliJ IDEA ###
+# Directorios generados por IntelliJ IDEA
+.idea/
+out/
+
+### Windows ###
+# Archivos del sistema de Windows
+Thumbs.db
+Desktop.ini
+
+### Logs ###
+*.log
+
+### Archivos de dependencias y compilación ###
+*.class
+*.jar
+
+### Archivos de configuración de dependencias (si tienes herramientas como Maven o Gradle) ###
+target/
+build/
+
+### Archivos de variables de entorno y claves de API ###
+.env
+
+### Archivos de configuración específicos de tu editor de texto ###
+.vscode/
